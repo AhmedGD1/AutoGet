@@ -1,0 +1,22 @@
+{
+  "name": "com.autoget.tool",
+  "version": "2.0.0",
+  "displayName": "AutoGet",
+  "description": "Attribute-driven automatic component injection for Unity MonoBehaviours. Use [AutoGet] on fields to replace manual GetComponent calls.",
+  "unity": "2021.3",
+  "type": "tool",
+  "keywords": [
+    "component",
+    "injection",
+    "attribute",
+    "automation",
+    "utilities"
+  ],
+  "author": {
+    "name": "Ahmed_GD",
+    "email": "aag75yssar@gmail.com",
+    "url": "https://github.com/AhmedGD1/AutoGet.git"
+  },
+  "dependencies": {}
+}
+
